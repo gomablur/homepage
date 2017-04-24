@@ -1,4 +1,4 @@
-# homepage
+# ごまふぁざらし
 
 [Web Site](http://gomablur.com "ごまふぁざらし")
 
